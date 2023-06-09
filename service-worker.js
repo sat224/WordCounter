@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sat224/wordCounter/precache-manifest.de38b3fab26e4148de2cd41e8fa0b6ab.js"
+  "/WordCounter/precache-manifest.7f43b48c076dc4178ed40df13f946e10.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sat224/wordCounter/index.html", {
+workbox.routing.registerNavigationRoute("/WordCounter/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

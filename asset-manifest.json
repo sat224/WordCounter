@@ -1,11 +1,11 @@
 {
-  "main.js": "/sat224/wordCounter/static/js/main.e43cd152.chunk.js",
-  "main.js.map": "/sat224/wordCounter/static/js/main.e43cd152.chunk.js.map",
-  "static/js/1.aa5d70b7.chunk.js": "/sat224/wordCounter/static/js/1.aa5d70b7.chunk.js",
-  "static/js/1.aa5d70b7.chunk.js.map": "/sat224/wordCounter/static/js/1.aa5d70b7.chunk.js.map",
-  "runtime~main.js": "/sat224/wordCounter/static/js/runtime~main.35dc51c2.js",
-  "runtime~main.js.map": "/sat224/wordCounter/static/js/runtime~main.35dc51c2.js.map",
-  "index.html": "/sat224/wordCounter/index.html",
-  "precache-manifest.de38b3fab26e4148de2cd41e8fa0b6ab.js": "/sat224/wordCounter/precache-manifest.de38b3fab26e4148de2cd41e8fa0b6ab.js",
-  "service-worker.js": "/sat224/wordCounter/service-worker.js"
+  "main.js": "/WordCounter/static/js/main.e43cd152.chunk.js",
+  "main.js.map": "/WordCounter/static/js/main.e43cd152.chunk.js.map",
+  "static/js/1.aa5d70b7.chunk.js": "/WordCounter/static/js/1.aa5d70b7.chunk.js",
+  "static/js/1.aa5d70b7.chunk.js.map": "/WordCounter/static/js/1.aa5d70b7.chunk.js.map",
+  "runtime~main.js": "/WordCounter/static/js/runtime~main.c0bf476f.js",
+  "runtime~main.js.map": "/WordCounter/static/js/runtime~main.c0bf476f.js.map",
+  "index.html": "/WordCounter/index.html",
+  "precache-manifest.7f43b48c076dc4178ed40df13f946e10.js": "/WordCounter/precache-manifest.7f43b48c076dc4178ed40df13f946e10.js",
+  "service-worker.js": "/WordCounter/service-worker.js"
 }
