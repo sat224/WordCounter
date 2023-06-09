@@ -6,6 +6,6 @@
   "runtime~main.js": "/WordCounter/static/js/runtime~main.c0bf476f.js",
   "runtime~main.js.map": "/WordCounter/static/js/runtime~main.c0bf476f.js.map",
   "index.html": "/WordCounter/index.html",
-  "precache-manifest.7f43b48c076dc4178ed40df13f946e10.js": "/WordCounter/precache-manifest.7f43b48c076dc4178ed40df13f946e10.js",
+  "precache-manifest.317aec0bdb0dcfcdab3b54072f8c3145.js": "/WordCounter/precache-manifest.317aec0bdb0dcfcdab3b54072f8c3145.js",
   "service-worker.js": "/WordCounter/service-worker.js"
 }

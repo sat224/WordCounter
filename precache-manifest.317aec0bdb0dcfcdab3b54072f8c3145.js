@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/WordCounter/static/js/runtime~main.c0bf476f.js"
   },
   {
-    "revision": "00d32008ce229c192ec3868cac88fe5f",
+    "revision": "3e21ea13e60c6763ab61f07f4128dcd1",
     "url": "/WordCounter/index.html"
   }
 ];
